@@ -1,0 +1,10 @@
+Student_ID,Name,Age,Gender,Department,Math_Score,Physics_Score,Chemistry_Score,Attendance(%),Passed
+101,Anjali,19,F,Science,78,82,74,92,Yes
+102,Rahul,20,M,Science,65,58,67,75,No
+103,Priya,21,F,Science,88,91,85,96,Yes
+104,Arjun,19,M,Commerce,,63,59,60,No
+105,Sneha,20,F,Arts,72,70,68,88,Yes
+106,Karan,22,M,Science,80,85,,84,Yes
+107,Nikita,21,F,Commerce,90,88,93,97,Yes
+108,Amit,20,M,Arts,45,50,47,78,No
+109,Isha,19,F,Science,84,89,90,94,Yes
